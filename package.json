@@ -1,0 +1,14 @@
+{
+  "name": "satsav",
+  "version": "1.0.0",
+  "description": "Save on groceries",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "author": "Melvin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
